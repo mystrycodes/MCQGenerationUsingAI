@@ -1,0 +1,40 @@
+## MCQ 1
+Question: According to the text, what is AskDOM?
+A) A type of NoSQL database.
+B) A mobile application designed to gather public opinions.
+C) A social media platform.
+D) A sentiment analysis algorithm.
+Correct Answer: B
+
+## MCQ 2
+Question: Which data sources were used for collecting social network data in the Bangkok area for mining public opinions?
+A) Instagram, Twitter, Facebook, Reddit
+B) Twitter, Facebook, Foursquare, Pantip
+C) TikTok, LinkedIn, Snapchat, Pantip
+D) Facebook, YouTube, Foursquare, Instagram
+Correct Answer: B
+
+## MCQ 3
+Question: What is the primary purpose of the clustering-based summarization framework within the DOM engine?
+A) To collect data from various social media platforms.
+B) To identify influential users in social networks.
+C) To provide a concise summary of public opinions by clustering similar sentences.
+D) To analyze the sentiment of individual tweets.
+Correct Answer: C
+
+## MCQ 4
+Question: Which machine learning techniques were utilized in the Exploring Twitter Sentiment Analysis and the Weather project?
+A) Only Naïve Bayes
+B) Naïve Bayes, Random Forest, Support Vector Machine, Logistic Regression
+C) K-Nearest Neighbors, Decision Trees, Random Forest, Naïve Bayes
+D) Support Vector Machine, Linear Regression, K-Means Clustering, Logistic Regression
+Correct Answer: B
+
+
+## MCQ 5
+Question:  What was the accuracy achieved by the stacking ensemble method for sentiment analysis in the Twitter and Weather project?
+A) Approximately 54%
+B) Approximately 75%
+C) Approximately 80%
+D) Approximately 95%
+Correct Answer: C 

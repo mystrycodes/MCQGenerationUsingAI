@@ -1,0 +1,105 @@
+## MCQ 1
+Question: What is the primary goal of the paper being analyzed?
+A) To develop a new machine learning algorithm for COVID-19 diagnosis.
+B) To identify frequent symptom patterns across demographic groups and explore correlations with outcomes.
+C) To predict the spread of COVID-19 in different geographical regions.
+D) To evaluate the effectiveness of various COVID-19 vaccines.
+Correct Answer: B
+
+## MCQ 2
+Question: Which frequent pattern mining algorithm is employed in the paper?
+A) Apriori
+B) FP-Tree
+C) FPGrowth
+D) ECLAT
+Correct Answer: C
+
+
+## MCQ 3
+Question: What is a key advantage of FPGrowth over traditional statistical models in this context?
+A) It can predict future COVID-19 cases with higher accuracy.
+B) It reveals complex itemset patterns and associations more effectively.
+C) It requires less computational resources for analysis.
+D) It is less sensitive to missing data.
+Correct Answer: B
+
+
+## MCQ 4
+Question: What type of data is FPGrowth particularly well-suited for analyzing?
+A) Time series data
+B) Image data
+C) Large transactional data
+D) Text data
+Correct Answer: C
+
+
+## MCQ 5
+Question: What is a quantitative comparison based on in the analysis using FPGrowth?
+A) Statistical significance
+B) Frequency of itemsets
+C) P-values
+D) Confidence intervals
+Correct Answer: B
+
+
+## MCQ 6
+Question: Which of the following is NOT listed as an advantage of FPGrowth?
+A) Interpretability
+B) Scalability
+C) Guaranteeing optimal solutions
+D) Actionable insights
+Correct Answer: C
+
+
+## MCQ 7
+Question: What is one limitation of the FPGrowth algorithm?
+A) It can only handle small datasets.
+B) It is insensitive to support and confidence thresholds.
+C) It can be complex to interpret with high-dimensional data.
+D) It is computationally very expensive.
+Correct Answer: C
+
+
+## MCQ 8
+Question: Which of the following is a potential application of the method discussed in the paper?
+A) Developing new COVID-19 treatments
+B) Public health surveillance for symptom clusters
+C) Designing clinical trials for vaccines
+D) Manufacturing medical equipment
+Correct Answer: B
+
+
+## MCQ 9
+Question: What symptom set was frequently associated with certain age groups in the simulations?
+A) [Fever, cough, loss of smell]
+B) [Sore throat, shortness of breath, nausea, headache]
+C) [Chills, muscle pain, fatigue]
+D) [Runny nose, sneezing, congestion]
+Correct Answer: B
+
+
+## MCQ 10
+Question: What did the association rules generated in the simulation reveal?
+A) Correlations between vaccination status and symptom severity
+B) Strong confidence values for associations between hospitalization status and symptom co-occurrences
+C) The effectiveness of different social distancing measures
+D) The impact of pre-existing conditions on COVID-19 outcomes
+Correct Answer: B
+
+
+## MCQ 11
+Question: How was the quantitative comparison between the simulation results and the paper's findings performed?
+A) By comparing the number of frequent itemsets found
+B) By comparing specific support, confidence, or lift values
+C) By comparing the execution time of the algorithm
+D) By comparing the size of the datasets used
+Correct Answer: B
+
+
+## MCQ 12
+Question: What type of insights were used for the qualitative comparison between the simulation and the paper?
+A) Statistical significance levels
+B) Prevalence of specific symptom patterns in different groups
+C) Precision and recall values of the algorithm
+D) The number of association rules generated
+Correct Answer: B 

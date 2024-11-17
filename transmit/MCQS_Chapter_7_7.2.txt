@@ -1,0 +1,39 @@
+ ## MCQ - Question 1
+    Question: Which of the following elements is a noble gas?
+    A) Carbon
+    B) Oxygen
+    C) Nitrogen
+    D) Helium
+    Correct Answer: D
+
+    ## MCQ - Question 2
+    Question: Who wrote the novel "1984"?
+    A) George Orwell
+    B) J.K. Rowling
+    C) Charles Dickens
+    D) Fyodor Dostoevsky
+    Correct Answer: A
+
+    ## MCQ - Question 3
+    Question: What is the capital city of Australia?
+    A) Sydney
+    B) Melbourne
+    C) Canberra
+    D) Brisbane
+    Correct Answer: C
+
+    ## MCQ - Question 4
+    Question: Which planet is closest to the sun in our solar system?
+    A) Mars
+    B) Venus
+    C) Mercury
+    D) Jupiter
+    Correct Answer: C
+
+    ## MCQ - Question 5
+    Question: Who composed the opera "La Bohème"?
+    A) Ludwig van Beethoven
+    B) Wolfgang Amadeus Mozart
+    C) Giacomo Puccini
+    D) Richard Wagner
+    Correct Answer: C

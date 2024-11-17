@@ -1,0 +1,24 @@
+## MCQ 1
+Question:  What is the fundamental difference between artificial neural networks and traditional digital computers in terms of their computational approach?
+A) Neural networks are designed to be linear and serial, while digital computers are parallel and nonlinear.
+B) Neural networks mimic the human brain's nonlinear and parallel processing, while digital computers are typically linear and serial.
+C) Both neural networks and digital computers use identical computational methods and architectures.
+D) Neural networks focus on speed and complexity, while digital computers prioritize simplicity and efficiency.
+Correct Answer: B
+
+## MCQ 2
+Question: In a neural network, what component is analogous to the connections between neurons in the human brain and is responsible for storing learned information?
+A) Activation function
+B) Input signal
+C) Synaptic weights
+D) Output amplitude
+Correct Answer: C
+
+
+## MCQ 3
+Question:  If you are training a neural network to classify images of cats and dogs, and you provide the network with labeled images indicating which are cats and which are dogs, what type of learning is this?
+A) Unsupervised learning
+B) Reinforcement learning
+C) Supervised learning
+D) Contextual learning
+Correct Answer: C 

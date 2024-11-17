@@ -1,0 +1,40 @@
+## MCQ 1
+Question: What is the primary motivation behind the development of artificial neural networks?
+A) To replicate the computational power of conventional digital computers.
+B) To mimic the way the human brain performs specific tasks.
+C) To create a linear, simple, and serial computer.
+D) To surpass the human brain in speed and complexity.
+Correct Answer: B
+
+## MCQ 2
+Question: Which of the following is NOT a characteristic of the human brain's computation method?
+A) Highly nonlinear
+B) Complex
+C) Parallel
+D) Linear
+Correct Answer: D
+
+## MCQ 3
+Question: What is the role of synaptic weights in a neural network?
+A) To transmit input signals without modification.
+B) To store acquired knowledge.
+C) To limit the amplitude of the neuron's output.
+D) To sum the inputs of a neuron.
+Correct Answer: B
+
+## MCQ 4
+Question: What is the function of a sigmoid activation function in a neural network?
+A) To act as a linear combiner of inputs.
+B) To introduce non-linearity and limit the output amplitude.
+C) To sum the weighted inputs.
+D) To connect neurons in different layers.
+Correct Answer: B
+
+
+## MCQ 5
+Question: Which type of learning involves updating synaptic weights using labeled training examples, each consisting of an input signal and a desired response?
+A) Unsupervised learning
+B) Reinforcement learning
+C) Supervised learning
+D) Contextual learning
+Correct Answer: C

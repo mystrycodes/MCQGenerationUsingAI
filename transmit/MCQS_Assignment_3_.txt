@@ -1,0 +1,95 @@
+## MCQ 1
+Question: What is the primary objective of Assignment 3?
+A) To learn about database design principles.
+B) To gain hands-on experience with replication in Cassandra.
+C) To compare different NoSQL databases.
+D) To explore data modeling techniques.
+Correct Answer: B
+
+## MCQ 2
+Question: What is the minimum number of nodes required for the Cassandra cluster in this assignment?
+A) One
+B) Two
+C) Three
+D) Four
+Correct Answer: C
+
+## MCQ 3
+Question: Which keyspace uses the SimpleStrategy for replication?
+A) global_data
+B) university_data
+C) student_data
+D) cassandra_data
+Correct Answer: B
+
+## MCQ 4
+Question: What is the initial replication factor for the university_data keyspace?
+A) 1
+B) 2
+C) 3
+D) 4
+Correct Answer: C
+
+## MCQ 5
+Question: Which replication strategy considers datacenter locations?
+A) SimpleStrategy
+B) NetworkTopologyStrategy
+C) LocalStrategy
+D) DatacenterStrategy
+Correct Answer: B
+
+## MCQ 6
+Question:  In Part 2, how many datacenters are assumed when using NetworkTopologyStrategy for the global_data keyspace?
+A) 1
+B) 2
+C) 3
+D) Not specified
+Correct Answer: B
+
+## MCQ 7
+Question: What is the primary key for the students table?
+A) name
+B) age
+C) department
+D) student_id
+Correct Answer: D
+
+## MCQ 8
+Question:  What function is recommended for generating unique student_id values?
+A) UUID()
+B) NEWID()
+C) UNIQUEID()
+D) RANDOM()
+Correct Answer: A
+
+## MCQ 9
+Question: What is the purpose of simulating node failures in Part 3?
+A) To test the database backup and restore process.
+B) To observe how Cassandra handles read and write operations during failures.
+C) To stress test the network infrastructure.
+D) To measure the maximum throughput of the cluster.
+Correct Answer: B
+
+## MCQ 10
+Question: Which consistency level guarantees that all replicas have acknowledged the write operation?
+A) ONE
+B) QUORUM
+C) ALL
+D) ANY
+Correct Answer: C
+
+## MCQ 11
+Question: What is one of the factors analyzed when testing different consistency levels?
+A) Disk space usage
+B) Network bandwidth consumption
+C) Latency
+D) CPU utilization
+Correct Answer: C
+
+## MCQ 12
+Question: What type of report is required for submission?
+A) Presentation slides
+B) Code documentation
+C) Summary report with findings and observations
+D) Research paper
+Correct Answer: C
